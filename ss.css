@@ -4,26 +4,16 @@ div{
 }
 .verde{
 	background-color:#b7d84b;
-	position: absolute;
-	left: 0;
-	bottom:0;
 }
 .azul{
 	background-color:blue;
 	position: absolute;
-	right: 0;
-	top: 0;
+	margin-left: 200px;
 }
 
 .rojo{
 	background-color:#ee3e64;
-	position: absolute;
-	left: 0;
-	top: 0;
 }
 .amarillo{
 	background-color:yellow;
-	position: absolute;
-	right: 0;
-	bottom: 0;
 }
