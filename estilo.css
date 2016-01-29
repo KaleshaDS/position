@@ -9,7 +9,8 @@ div{
 
 #azul{
 	background-color:blue;
-	position:static;
+	position:relative;
+	left: 200px;
 }
 
 #rojo{
