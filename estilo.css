@@ -1,0 +1,19 @@
+div{
+	width:200px;
+	height:200px;	
+}
+#verde{
+	background-color:#b7d84b;
+	position:static;	
+}
+
+#azul{
+	background-color:blue;
+	position:static;
+}
+
+#rojo{
+	background-color:#ee3e64;
+	position:static;
+	
+}
